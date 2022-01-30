@@ -1,0 +1,45 @@
+  /* homepage */  
+  .masthead {
+    height: 58vh;
+    min-height: 500px;
+    background-image: url('../img/vegatables.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    font-style: bold;
+  }
+
+  footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;    
+  }
+
+  /* register & login */
+  .wrapper{
+    margin: auto;
+    width: 360px;
+    padding: 30px;
+  }
+
+ /* seeding calendar */
+ .mast {
+  height: 58vh;
+  min-height: 500px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: black;
+  font-style: bold;
+}
+
+ /* tips&tricks */
+
+ /*contact*/
+ .col-md-8 {
+     margin: auto;
+     text-align: left; 
+     width: 800px;
+     padding: 30px;
+ }
